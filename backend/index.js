@@ -19,3 +19,4 @@ app.listen(PORT, ()=> {
 }).catch((error)=> {
 console.log(error);
 });
+// Mongoose is a popular data object monitoring library for MongoDB. It allows us to interact with mongo db easily with JavaScript commands.
